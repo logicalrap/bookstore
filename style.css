@@ -1,0 +1,234 @@
+/* Resetting default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Header styles */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Main styles */
+main {
+    padding: 20px;
+}
+
+.hero {
+    background-image: url('hero-background.jpg');
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    padding: 100px 0;
+    color: #fff;
+}
+
+.hero h2 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #ff9900;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #e68a00;
+}
+
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Home Page */
+ body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2; /* Light gray background */
+        }
+
+        header {
+            background-color: #000; /* Black background for header */
+            color: #fff; /* White text color */
+            padding: 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+        }
+
+        nav ul li {
+            margin: 0 10px;
+        }
+
+        nav ul li a {
+            color: #fff; /* White text color for navigation links */
+            text-decoration: none;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        /* Add styles for the featured book cards */
+        .featured-books {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            gap: 20px;
+        }
+
+        .featured-book {
+            flex: 1 1 300px; /* Adjust the width as needed */
+            background-color: #8B0000; /* Red background color */
+            padding: 20px;
+            border-radius: 10px;
+            color: #fff; /* White text color */
+            position: relative;
+        }
+
+        .featured-book img {
+            width: 100%;
+            border-radius: 5px;
+        }
+
+        .featured-book h3,
+        .featured-book p {
+            margin: 0;
+        }
+
+        .add-to-cart {
+            position: absolute;
+            bottom: 10px;
+            left: 50%;
+            transform: translateX(-50%);
+            background-color: #000; /* Black background color for button */
+            color: #fff; /* White text color for button */
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .add-to-cart:hover {
+            background-color: #333; /* Darker black on hover */
+        }
+
+        /* Cart popup styles */
+        .cart-popup {
+            position: fixed;
+            top: 50%;
+            right: 0;
+            transform: translateY(-50%);
+            background-color: #fff;
+            padding: 20px;
+            border-left: 2px solid #8B0000; /* Red border on the left */
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+            z-index: 999;
+            display: none;
+        }
+
+        .cart-popup.show {
+            transform: translateY(-50%) translateX(0); /* Slide in from the right */
+        }
+
+        .cart-items {
+            list-style: none;
+            padding: 0;
+        }
+
+        .cart-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .cart-item img {
+            width: 50px;
+            border-radius: 5px;
+            margin-right: 10px;
+        }
+
+        .cart-actions {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+
+        .cart-total {
+            font-weight: bold;
+        }
+
+        /* Button styles */
+        .btn {
+            background-color: #8B0000;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .btn:hover {
+            background-color: #6b0000;
+        }
+
