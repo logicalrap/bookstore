@@ -1,0 +1,952 @@
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A CALAMITY OF SOULS
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538765029.jpg
+            [price] => 378.96
+        )
+
+)
+
+Cart Total: 378.96
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A CALAMITY OF SOULS
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538765029.jpg
+            [price] => 378.96
+        )
+
+)
+
+Cart Total: 378.96
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A CALAMITY OF SOULS
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538765029.jpg
+            [price] => 378.96
+        )
+
+)
+
+Cart Total: 378.96
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A CALAMITY OF SOULS
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538765029.jpg
+            [price] => 378.96
+        )
+
+)
+
+Cart Total: 378.96
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A CALAMITY OF SOULS
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538765029.jpg
+            [price] => 378.96
+        )
+
+)
+
+Cart Total: 378.96
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A CALAMITY OF SOULS
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538765029.jpg
+            [price] => 378.96
+        )
+
+)
+
+Cart Total: 378.96
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A CALAMITY OF SOULS
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538765029.jpg
+            [price] => 378.96
+        )
+
+)
+
+Cart Total: 378.96
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A CALAMITY OF SOULS
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538765029.jpg
+            [price] => 378.96
+        )
+
+)
+
+Cart Total: 378.96
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A CALAMITY OF SOULS
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538765029.jpg
+            [price] => 378.96
+        )
+
+)
+
+Cart Total: 378.96
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A CALAMITY OF SOULS
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538765029.jpg
+            [price] => 378.96
+        )
+
+)
+
+Cart Total: 378.96
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A CALAMITY OF SOULS
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538765029.jpg
+            [price] => 378.96
+        )
+
+)
+
+Cart Total: 378.96
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A CALAMITY OF SOULS
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538765029.jpg
+            [price] => 378.96
+        )
+
+)
+
+Cart Total: 378.96
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A CALAMITY OF SOULS
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538765029.jpg
+            [price] => 378.96
+        )
+
+)
+
+Cart Total: 378.96
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A CALAMITY OF SOULS
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538765029.jpg
+            [price] => 378.96
+        )
+
+)
+
+Cart Total: 378.96
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A CALAMITY OF SOULS
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538765029.jpg
+            [price] => 378.96
+        )
+
+)
+
+Cart Total: 378.96
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A CALAMITY OF SOULS
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538765029.jpg
+            [price] => 378.96
+        )
+
+)
+
+Cart Total: 378.96
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A CALAMITY OF SOULS
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538765029.jpg
+            [price] => 378.96
+        )
+
+)
+
+Cart Total: 378.96
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A CALAMITY OF SOULS
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538765029.jpg
+            [price] => 378.96
+        )
+
+)
+
+Cart Total: 378.96
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 331.64
+        )
+
+    [1] => Array
+        (
+            [title] => THE MURDER INN
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538710944.jpg
+            [price] => 686.54
+        )
+
+)
+
+Cart Total: 1018.18
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 331.64
+        )
+
+    [1] => Array
+        (
+            [title] => THE MURDER INN
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538710944.jpg
+            [price] => 686.54
+        )
+
+)
+
+Cart Total: 1018.18
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 331.64
+        )
+
+    [1] => Array
+        (
+            [title] => THE MURDER INN
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538710944.jpg
+            [price] => 686.54
+        )
+
+)
+
+Cart Total: 1018.18
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 331.64
+        )
+
+    [1] => Array
+        (
+            [title] => THE MURDER INN
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538710944.jpg
+            [price] => 686.54
+        )
+
+)
+
+Cart Total: 1018.18
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 331.64
+        )
+
+    [1] => Array
+        (
+            [title] => THE MURDER INN
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538710944.jpg
+            [price] => 686.54
+        )
+
+)
+
+Cart Total: 1018.18
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 331.64
+        )
+
+    [1] => Array
+        (
+            [title] => THE MURDER INN
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538710944.jpg
+            [price] => 686.54
+        )
+
+)
+
+Cart Total: 1018.18
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 331.64
+        )
+
+    [1] => Array
+        (
+            [title] => THE MURDER INN
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538710944.jpg
+            [price] => 686.54
+        )
+
+)
+
+Cart Total: 1018.18
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 331.64
+        )
+
+    [1] => Array
+        (
+            [title] => THE MURDER INN
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538710944.jpg
+            [price] => 686.54
+        )
+
+)
+
+Cart Total: 1018.18
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 331.64
+        )
+
+    [1] => Array
+        (
+            [title] => THE MURDER INN
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538710944.jpg
+            [price] => 686.54
+        )
+
+)
+
+Cart Total: 1018.18
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 331.64
+        )
+
+    [1] => Array
+        (
+            [title] => THE MURDER INN
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538710944.jpg
+            [price] => 686.54
+        )
+
+)
+
+Cart Total: 1018.18
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 331.64
+        )
+
+    [1] => Array
+        (
+            [title] => THE MURDER INN
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538710944.jpg
+            [price] => 686.54
+        )
+
+)
+
+Cart Total: 1018.18
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 331.64
+        )
+
+    [1] => Array
+        (
+            [title] => THE MURDER INN
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538710944.jpg
+            [price] => 686.54
+        )
+
+)
+
+Cart Total: 1018.18
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 331.64
+        )
+
+    [1] => Array
+        (
+            [title] => THE MURDER INN
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538710944.jpg
+            [price] => 686.54
+        )
+
+)
+
+Cart Total: 1018.18
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 331.64
+        )
+
+    [1] => Array
+        (
+            [title] => THE MURDER INN
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538710944.jpg
+            [price] => 686.54
+        )
+
+)
+
+Cart Total: 1018.18
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 331.64
+        )
+
+    [1] => Array
+        (
+            [title] => THE MURDER INN
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538710944.jpg
+            [price] => 686.54
+        )
+
+)
+
+Cart Total: 1018.18
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 331.64
+        )
+
+    [1] => Array
+        (
+            [title] => THE MURDER INN
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538710944.jpg
+            [price] => 686.54
+        )
+
+)
+
+Cart Total: 1018.18
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 331.64
+        )
+
+    [1] => Array
+        (
+            [title] => THE MURDER INN
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538710944.jpg
+            [price] => 686.54
+        )
+
+)
+
+Cart Total: 1018.18
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 331.64
+        )
+
+    [1] => Array
+        (
+            [title] => THE MURDER INN
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538710944.jpg
+            [price] => 686.54
+        )
+
+)
+
+Cart Total: 1018.18
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 331.64
+        )
+
+    [1] => Array
+        (
+            [title] => THE MURDER INN
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781538710944.jpg
+            [price] => 686.54
+        )
+
+)
+
+Cart Total: 1018.18
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+
+Cart Items: Array
+(
+    [0] => Array
+        (
+            [title] => A COURT OF THORNS AND ROSES
+            [image] => https://storage.googleapis.com/du-prd/books/images/9781619634459.jpg
+            [price] => 291.76
+        )
+
+)
+
+Cart Total: 291.76
+

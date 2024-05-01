@@ -74,21 +74,21 @@
     <footer>
         <p>&copy; 2024 Bookweb Bookstore. All rights reserved.</p>
     </footer>
-
-    <!-- Checkout Form -->
-    <form id="checkoutForm" action="process_payment.php" method="post">
+  <!-- Checkout Form -->
+  <form id="checkoutForm" action="process_payment.php" method="post">
         <input type="hidden" name="total_amount" id="totalAmount">
-        <input type="submit" value="Checkout" class="btn">
+        <input type="button" value="Checkout" class="btn" onclick="checkout()">
     </form>
 
-    <!-- Cart Pop-up Modal -->
-    <div id="cartModal" class="modal">
+  <!-- Cart Pop-up Modal -->
+  <div id="cartModal" class="modal">
         <div class="modal-content">
             <span class="close">&times;</span>
             <h2>Shopping Cart</h2>
             <div id="cartItems"></div>
             <p>Total Amount: <span id="cartTotal"></span></p>
-            <button onclick="checkout()" class="btn">Checkout</button>
+            <!-- Modified Checkout button -->
+            <button onclick="checkout()" class="btn">Checkout 2</button>
         </div>
     </div>
 
@@ -204,14 +204,25 @@ function removeItem(index) {
 
 
 
+function checkout() {
+    // Prepare the data array
+    let cartData = [];
+    cartItems.forEach(item => {
+        cartData.push({ title: item.title, price: item.price });
+    });
 
-        // Checkout function (to be implemented)
-        function checkout() {
-            // You can send cartItems and cartTotal to your PHP file for further processing
-            // For now, let's just log the cart items and total
-            console.log('Cart Items:', cartItems);
-            console.log('Cart Total:', cartTotal.toFixed(2));
-        }
+    // Send the data to process_payment.php using Fetch API
+    fetch('process_payment.php', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ cartItems: cartData })
+    })
+    .catch(error => console.error('Error:', error));
+}
+
+
     </script>
 </body>
 </html>
